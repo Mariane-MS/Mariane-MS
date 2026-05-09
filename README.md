@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Header - Mariane Maicá Silveira" />
+  <img src="header.jpg" alt="Header - Mariane Maicá Silveira" />
 </p>
 
 <h2 align="center">
