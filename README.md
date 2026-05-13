@@ -11,7 +11,7 @@
   <pre style="display: inline-block; padding: 15px; white-space: pre-wrap; word-wrap: break-word; width: fit-content; max-width: 100%;">
 🎓 UniFil • Computer Science
 💻 System programming languages • Java
-🎨 Art • Music • Writing • Games
+🎨 Kunst • Musik • Schreiben • Spiele
   </pre>
 </div>
 
