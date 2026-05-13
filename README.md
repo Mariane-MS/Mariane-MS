@@ -9,8 +9,8 @@
  
 <div align="center">
   <pre style="display: inline-block; padding: 15px; white-space: pre-wrap; word-wrap: break-word; width: fit-content; max-width: 100%;">
-🎓 UniFil • Computer Science
-💻 System programming languages • Java
+🎓 UniFil • Informatik
+💻 Programmiersprachen • Java
 🎨 Kunst • Musik • Schreiben • Spiele
   </pre>
 </div>
@@ -19,7 +19,7 @@
 
 <div align="center">
   <pre style="display: inline-block; padding: 15px; white-space: pre-wrap; word-wrap: break-word; width: fit-content; max-width: 100%; text-align: center;">
-Prazer, me chamo Mariane Maicá Silveira e tenho 17 anos.
+Es freut mich, mein Name ist Mariane und ich bin 18 Jahre alt.
 No segundo ano do Ensino Médio fiz parte do Programa Ganhando o Mundo, 
 cursando o primeiro semestre escolar no Canadá, e do NAAHS 
 (Núcleo de Atividades de Altas Habilidades / Superdotação).
